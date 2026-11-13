@@ -85,7 +85,7 @@ A school information and agenda management system.
 
 ## 📫 Let's Connect!
 
-- GitHub: [@YOUR_GITHUB_USERNAME](https://github.com/YOUR_GITHUB_USERNAME)
+- GitHub: [@Fitzzyy201](https://github.com/Fitzzyy201)
 
 ---
 
