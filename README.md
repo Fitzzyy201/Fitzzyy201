@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Fitzzyy!
+# 👋 Hey, I'm Fikri!
 
 ### 🎓 Student Developer | 💻 Web Development Enthusiast
 
